@@ -1,5 +1,5 @@
 
-### Hi there, I'am David Alexander Ruiz Hidalgo
+### Hi there, I'm David Alexander Ruiz Hidalgo
 
 ### Data Analyst | Data Science | Business Intelligence
 
