@@ -1,7 +1,7 @@
 
-### Hi there, I'm David Alexander Ruiz Hidalgo
+# Hi there, I'm David Alexander Ruiz Hidalgo
 
-### Data Analyst | Data Science | Business Intelligence
+## Data Analyst | Data Science | Business Intelligence
 
 Data Analyst with training in Data Science and experience across financial services, business operations, and customer service. I use data analysis, visualization, and machine learning fundamentals to turn raw information into useful insights that support business decisions and process improvement.
 
